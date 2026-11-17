@@ -1,2 +1,9 @@
-# foodhub-data-analysis
-Exploratory Data Analysis of FoodHub food delivery orders using Python to identify restaurant trends, customer preferences, order patterns, and delivery performance, with actionable business recommendations.
+The notebook is designed to analyze:
+- Restaurant and cuisine popularity
+- Customer ordering patterns
+- Order costs and revenue
+- Food preparation and delivery times
+- Customer ratings and feedback
+- Weekday versus weekend ordering trends
+- Business recommendations to improve customer experience
+Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
